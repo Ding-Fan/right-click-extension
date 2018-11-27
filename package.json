@@ -1,0 +1,12 @@
+{
+  "name": "right-click-extension",
+  "version": "0.0.1",
+  "description": "Right click extension",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}
